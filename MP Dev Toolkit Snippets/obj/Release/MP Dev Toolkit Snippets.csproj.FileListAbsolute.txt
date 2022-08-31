@@ -21,3 +21,15 @@ C:\Git\MP-Dev-Toolkit-Snippets\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolki
 C:\Git\MP-Dev-Toolkit-Snippets\MP Dev Toolkit Snippets\obj\Release\extension.vsixmanifest
 C:\Git\MP-Dev-Toolkit-Snippets\MP Dev Toolkit Snippets\obj\Release\files.json
 C:\Git\MP-Dev-Toolkit-Snippets\MP Dev Toolkit Snippets\obj\Release\createTemplateManifests.cache
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\MPDevToolkit.pkgdef
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\MP Dev Toolkit Snippets.vsix
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\extension.vsixmanifest
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.AssemblyReference.cache
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\_EmptyResource.resources
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.GenerateResource.cache
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.CoreCompileInputs.cache
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.dll
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.pdb
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\extension.vsixmanifest
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\files.json
+C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\createTemplateManifests.cache
