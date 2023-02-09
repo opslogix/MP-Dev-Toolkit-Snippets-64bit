@@ -33,3 +33,15 @@ C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\
 C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\extension.vsixmanifest
 C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\files.json
 C:\Data\Repos\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\createTemplateManifests.cache
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\MPDevToolkit.pkgdef
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\MP Dev Toolkit Snippets.vsix
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\bin\Release\extension.vsixmanifest
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\_EmptyResource.resources
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.GenerateResource.cache
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.dll
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\MP Dev Toolkit Snippets.pdb
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\extension.vsixmanifest
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\files.json
+\\Mac\Home\Documents\GitHub\MP-Dev-Toolkit-Snippets-64bit\MP Dev Toolkit Snippets\obj\Release\createTemplateManifests.cache
